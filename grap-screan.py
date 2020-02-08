@@ -1,3 +1,7 @@
+# author: Dark
+# Data: 2020-2-7
+# Detail: grap screen using opencv
+
 # coding: utf-8
 from PIL import ImageGrab
 import  numpy as np
